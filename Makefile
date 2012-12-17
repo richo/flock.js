@@ -1,2 +1,2 @@
 serve:
-	cd src; python -m SimpleHTTPServer
+	python -m SimpleHTTPServer
